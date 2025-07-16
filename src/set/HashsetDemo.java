@@ -13,6 +13,8 @@ public class HashsetDemo {
         set.add("saikiran");
         set.add("harish");
         set.add("ricky");
+        set.add(null);
+        set.add(null);
         System.out.println(set);
         // for(String s : set){
         //     System.out.println(s);
